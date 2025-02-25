@@ -257,6 +257,10 @@ body {
   margin-top: 20px;
 }
 
+.footer p {
+  margin: 5px 0;
+}
+
 .footer a {
   color: #fff;
   text-decoration: none;
